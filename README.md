@@ -119,8 +119,8 @@ food_analysis_app/
 
 ## 📋 TODO
 
-- [ ] Implement AI-powered nutrition analysis
-- [ ] Add user authentication
+- [ ] Implement features to add users' anthropometric data 
+- [ ] Add profile picture feature
 - [ ] Create comprehensive testing suite
 - [ ] Optimize performance
 
