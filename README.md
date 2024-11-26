@@ -1,10 +1,10 @@
 # food_analysis_app
 
-A new Flutter project.
+A Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is a starting point for a nutritional Flutter application leveraging AI.
 
 A few resources to get you started if this is your first Flutter project:
 
