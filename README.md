@@ -124,10 +124,6 @@ food_analysis_app/
 - [ ] Create comprehensive testing suite
 - [ ] Optimize performance
 
-## 📞 Support
-
-For issues or questions, please [open an issue](https://github.com/yourusername/food_analysis_app/issues) on GitHub.
-
 ## 📄 License
 
 Distributed under the MIT License. See `LICENSE` for more information.
